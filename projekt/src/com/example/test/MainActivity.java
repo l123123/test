@@ -17,10 +17,19 @@ public class MainActivity extends Activity {
 	
 	int aaa;
 	
-	public static dssdfsdfsdfsadfsdasdf{
+	public static void dssdfsdfsdfsadfsdasdf(){
 		
 		
 	}
+	
+	
+	
+	public static void nEU(){
+		
+	}
+	
+	
+	
 	
 	
 	
