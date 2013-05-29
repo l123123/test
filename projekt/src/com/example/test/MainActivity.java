@@ -15,6 +15,15 @@ public class MainActivity extends Activity {
 	
 	// neue
 	
+	int aaa;
+	
+	public static dssdfsdfsdfsadfsdasdf{
+		
+		
+	}
+	
+	
+	
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
